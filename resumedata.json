@@ -1,0 +1,40 @@
+{
+	"details": {
+		"name": "Setty.Venkata Siva Naga Sai Prasanna",
+		"edu": "MCA graduate"
+	},
+	"skills": ["Java ", "Python", "Sql", "Html", "Css", "Bootstrap", "Reactjs", "Django"],
+	"strenght": ["Postive thinking", "Quick learner", "Interpersonal skills"],
+	"languages": ["English", "Telugu", "Hindi"],
+	"hobbies": [ "Cooking", "listenig Music","Playing Carroms"],
+	"career": "To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills. Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.",
+	"education": {
+		"0": {
+			"no": "1",
+			"clg": "Rise Krishna Sai prakasam group of instustions, ongole",
+			"quli": "MCA",
+			"yop": "2020"
+		},
+		"1": {
+			"no": "2",
+			"clg": "S.R.K Degree college,Ongole",
+			"quli": "B.Sc(MPCs)",
+			"yop": "2017"
+		},
+		"2": {
+			"no": "3",
+			"clg": "Venus Jr College,Ongole",
+			"quli": "MPC",
+			"yop": "2013"
+		},
+		"3": {
+			"no": "4",
+			"School": "D.R.R.M.M.High Scool,Ongole",
+			"quli": "S.S.C",
+			"yop": "2012"
+		},
+
+		
+	},
+	"courses": ["Programming Foundations with JavaScript, HTML and CSS", "Introduction to Relational Database and SQL", "Computer Vision - Object Tracking with OpenCV and Python"]
+}
