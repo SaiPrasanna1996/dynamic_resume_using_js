@@ -24,7 +24,7 @@ function details(d){
 var main=document.querySelector(".side");
 var child=document.createElement("div");
 var image=document.createElement("img");
-image.src="User.png";
+image.src="images/User.png";
 image.alt="profile image";
 child.appendChild(image);
 var h1=document.createElement("h1");
